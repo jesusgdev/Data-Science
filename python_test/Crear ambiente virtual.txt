@@ -1,0 +1,7 @@
+*primero debemos abrir la terminal
+*Luego colocamos el comando para crear el ambiente virtual, lo ubicamos en una carpeta que designemos para ello en mi caso venvs
+y escribimos $ python3 -m venv python_test/venvs/venv1 (donde venv1 representa el nombre del ambiente virtual que hemos creado)
+*Luego para activarlo nos colocamos en la carpeta donde este guardado el ambiente virtual (en mi caso venvs) y escribimos lo
+siguiente $ source venv1/bin/activate
+*para terminar el ambiente virtual escribo lo siguiente $ deactivate
+*y para eliminarlo $ rm -rf venv1
